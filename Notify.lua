@@ -8,5 +8,3 @@ end
 
 exports("Notify", Notify)
 RegisterNetEvent("ESX:Notify", Notify)
-
--- drecks standart notify
